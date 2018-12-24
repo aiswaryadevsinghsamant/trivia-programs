@@ -1,8 +1,8 @@
-import unittest
+from unittest import TestCase
 from palindrome import palindrome_fun
 
 
-class TestPalindrome(unittest.TestCase):
+class TestPalindrome(TestCase):
 
     def test_palindrome_fun_for_success(self):
         ip = 121
