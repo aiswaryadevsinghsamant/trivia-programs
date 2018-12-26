@@ -1,2 +1,2 @@
-# trivia-programs
+# Trivia-programs
 Contains logical programs in Python
